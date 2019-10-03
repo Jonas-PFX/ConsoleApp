@@ -1,2 +1,6 @@
 image:
   file: Dockerfile
+
+vscode:
+  extensions:
+    - ms-vscode.csharp@1.21.3:vKgVjnriOZEB0KyjaWg+Iw==

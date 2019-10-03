@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ConsoleApp
 {
@@ -6,7 +6,14 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            TestClass TC = new TestClass("Hello Class!");
+            PrintSomething("Hello World!");
+            PrintSomething(TC.TestProp);
+        }
+
+
+        static void PrintSomething(string inStr) {
+            Console.WriteLine($"Printing.. {inStr}");
         }
     }
 }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/home/jonasblomqvist87/Code/C#/GITHUB/ConsoleApp/ConsoleApp.csproj": {}
+    "/workspace/ConsoleApp/ConsoleApp.csproj": {}
   },
   "projects": {
-    "/home/jonasblomqvist87/Code/C#/GITHUB/ConsoleApp/ConsoleApp.csproj": {
+    "/workspace/ConsoleApp/ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jonasblomqvist87/Code/C#/GITHUB/ConsoleApp/ConsoleApp.csproj",
+        "projectUniqueName": "/workspace/ConsoleApp/ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "/home/jonasblomqvist87/Code/C#/GITHUB/ConsoleApp/ConsoleApp.csproj",
-        "packagesPath": "/home/jonasblomqvist87/.nuget/packages/",
-        "outputPath": "/home/jonasblomqvist87/Code/C#/GITHUB/ConsoleApp/obj/",
+        "projectPath": "/workspace/ConsoleApp/ConsoleApp.csproj",
+        "packagesPath": "/home/gitpod/.nuget/packages/",
+        "outputPath": "/workspace/ConsoleApp/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/jonasblomqvist87/.nuget/NuGet/NuGet.Config"
+          "/home/gitpod/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
